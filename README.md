@@ -12,7 +12,7 @@ Self-directed design and simulation exercises across CAD, FEA, and CFD — built
 - [Centrifugal Office Room Airflow Analysis](CFD/CFD_OfficeRoom_Results.pdf)
 - [Centrifugal Centrifugal_Pump Analysis](CFD/CFD_Centrifugal_Pump_Results.pdf)
 - [Electronic Circuit Board Cooling (SOLIDWORKS Flow Simulation)](CFD/CFD_Electronic_Circuit_Board.pdf)
-- [Drone CFD Animation](CFD/CFD_Drone_Animation.mp4)
+- 🎥 [Drone CFD Animation](https://drive.google.com/file/d/12BOZKvzPGX7IPpzMNVmbITqdy4RcWzLt/view?usp=sharing)
 
 ## CAD Design Practice
 - [4-Cylinder Engine Crankshaft Assembly](CAD/CAD_FourCylinder_CrankShaft.pdf)
